@@ -51,3 +51,5 @@ The system manages:
 ## Project Outcome
 
 This project demonstrates practical database design and SQL query implementation for a real-world e-commerce system.
+
+![ER Diagram](ER_Diagram.png)
